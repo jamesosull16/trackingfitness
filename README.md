@@ -36,11 +36,11 @@ Once the appropriate modules have been downloaded via 'npm i', you can run 'npm 
 
 ## Usage
 
-[Home Page](/assets/homescreen.png)
+![Home Page](/assets/homescreen.png)
 
-[Adding a Workout](/assets/addwo.png)
+![Adding a Workout](/assets/addwo.png)
 
-[Dashboard](/assets/dashboard.png)
+![Dashboard](/assets/dashboard.png)
 
 ---
 
