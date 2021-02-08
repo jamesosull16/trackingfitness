@@ -65,4 +65,5 @@ No unit tests were created for this project and all testing was done by running 
 ## Links
 
 [Heroku Application](https://agile-sea-22341.herokuapp.com/stats)
+
 [Github Repository](https://github.com/jamesosull16/trackingfitness)
